@@ -9,7 +9,7 @@ LOST_TREASURE_INDEX = {
   ITEMID = 7,
 }
 
-LOST_TREASURE_DATA = { 
+LOST_TREASURE_DATA = {
 ----Khenarthi's Roost
   [294] = {
     ["treasure"] = {
@@ -275,7 +275,7 @@ LOST_TREASURE_DATA = {
       {0.5680,  0.8759,  [[Betnikh Treasure Map II]], [[Betnikh Schatzkarte II]], [[Carte Au Trésor de Betnikh II]], [[treasuremap_betnikh_002]],               43694 },
       {0.4551,  0.4360,  [[Betnikh CE Treasure Map]], [[Betnikh CE Schatzkarte]], [[Carte Au Trésor de Betnikh EC]], [[treasuremap_ce_daggerfall_betnikh_01b]], 44930 },
     },
-  },  
+  },
   ----Glenumbra
   [2] = {
     ["treasure"] = {
@@ -333,7 +333,7 @@ LOST_TREASURE_DATA = {
       {0.5444,  0.6439,  [[Woodworker Survey: Rivenspire]], [[Schreinergutachten: Kluftspitze]],   [[Repérages de Travailleur du Bois : Fendretour]], [[rivenspire_survey_woodworker]], 57821 },
     },
   },
-----Rivenspire, North Point  
+----Rivenspire, North Point
   ["northpoint"] = {
     ["treasure"] = {
       {0.2763,  0.1772,  [[Rivenspire CE Treasure Map]], [[Kluftspitze CE Schatzkarte]], [[Carte Au Trésor de Fendretour EC]], [[treasuremap_ce_daggerfall_rivenspire_04]], 44942 },
@@ -457,7 +457,7 @@ LOST_TREASURE_DATA = {
     },
   },
   ----Craglorn
-  [353] = {
+  [485] = {
     ["treasure"] = {
       {0.2866,  0.6212,  [[Craglorn Treasure Map I]],   [[Kargstein Schatzkarte I]],   [[Carte Au Trésor de Raidelorn I]],   [[treasuremap_craglorn_01]], 43721 },
       {0.4188,  0.4750,  [[Craglorn Treasure Map II]],  [[Kargstein Schatzkarte II]],  [[Carte Au Trésor de Raidelorn II]],  [[treasuremap_craglorn_02]], 43722 },
@@ -485,7 +485,7 @@ LOST_TREASURE_DATA = {
     },
   },
   ----Wrothgar
-  [396] = {
+  [367] = {
     ["treasure"] = {
       {0.4798,  0.7865,  [[Orsinium Treasure Map I]],   [[Schatzkarte: Orsinium I]],   [[Carte Au Trésor D'Orsinium I]],   [[treasuremap_orsinium_01]], 43727 },
       {0.7647,  0.5651,  [[Orsinium Treasure Map II]],  [[Schatzkarte: Orsinium II]],  [[Carte Au Trésor D'Orsinium II]],  [[treasuremap_orsinium_02]], 43728 },
@@ -513,7 +513,7 @@ LOST_TREASURE_DATA = {
     },
   },
   -- Hew's Bane
-  [513] = {
+  [460] = {
     ["treasure"] = {
         {0.4168,  0.8509,  [[Hew's Bane Treasure Map I]],   [[Schatzkarte: Hew's Bane I]],   [[Carte Au Trésor Hew's Bane I]],   [[treasuremap_thievesguild_01]], 43733 },
         {0.3865,  0.5805,  [[Hew's Bane Treasure Map II]],  [[Schatzkarte: Hew's Bane II]],  [[Carte Au Trésor Hew's Bane II]],  [[treasuremap_thievesguild_02]], 43734 },
@@ -522,7 +522,7 @@ LOST_TREASURE_DATA = {
     },
   },
   -- Dark Brotherhood, Gold Coast
-  [519] = {
+  [466] = {
     ["treasure"] = {
         {0.6393,  0.3322,  [[Gold Coast Treasure Map I]],   [[Schatzkarte: Gold Coast I]],   [[Carte Au Trésor Gold Coast I]],   [[treasuremap_darkbrotherhood_01]], 43735 },
         {0.4836,  0.3207,  [[Gold Coast Treasure Map II]],  [[Schatzkarte: Gold Coast II]],  [[Carte Au Trésor Gold Coast II]],  [[treasuremap_darkbrotherhood_02]], 43736 },
